@@ -1,4 +1,4 @@
-his repository contains from-scratch implementations of two fundamental machine learning algorithms:
+This repository contains from-scratch implementations of two fundamental machine learning algorithms:
 
 Linear Support Vector Machine (SVM) for binary classification
 
